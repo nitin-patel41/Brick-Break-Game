@@ -1,0 +1,2 @@
+# Brick-Break-Game
+It is a game generally made for kids. For Developing this game I was used java language and spring framework and some awt classes I did not use any hard logic , it has a bricks And one ball with paddle and we can move paddle in left or right any direction. If ball connect to the paddle then it will moving in any direction we can not guess. Brick Break Game is in under Development for some future enhancement. Download the code and Enjoy the game....!
